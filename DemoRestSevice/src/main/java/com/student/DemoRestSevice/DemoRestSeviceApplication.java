@@ -17,7 +17,8 @@ public class DemoRestSeviceApplication {
 		System.out.println("Welcome From TRIARQ Health");
 		int a,b,c;
 		a=1;b=5;c=a+b;
-		System.out.println(c);
+		System.out.println("a+b="+ c);
+		
 		
 		
 
