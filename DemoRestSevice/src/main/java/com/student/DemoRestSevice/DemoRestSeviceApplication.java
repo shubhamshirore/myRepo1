@@ -18,9 +18,7 @@ public class DemoRestSeviceApplication {
 		int a,b,c;
 		a=1;b=5;c=a+b;
 		System.out.println("a+b="+ c);
-		
-		
-		
+		//comment added
 
 	}
 }
